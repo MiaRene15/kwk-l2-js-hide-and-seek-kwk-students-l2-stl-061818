@@ -4,4 +4,4 @@ function getFirstSelector(selector) {
   return document.querySelector(selector)
 }
 
-func
+function nestedTarget
