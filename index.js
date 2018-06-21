@@ -9,4 +9,6 @@ function nestedTarget() {
   return document.querySelector('#nested div.target')
 }
 
-function deepest
+function deepestChild() {
+  return document.querySelector
+}
