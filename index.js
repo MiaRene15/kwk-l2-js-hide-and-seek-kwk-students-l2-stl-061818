@@ -1,5 +1,5 @@
 //Code your solution here
 
 function getFirstSelector(selector) {
-  return querySelector('div')
+  return document.querySelector('div')
 }
