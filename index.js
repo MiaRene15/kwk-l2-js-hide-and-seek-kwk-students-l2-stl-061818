@@ -8,3 +8,5 @@ function getFirstSelector(selector) {
 function nestedTarget() {
   return document.querySelector('#nested div.target')
 }
+
+function 
